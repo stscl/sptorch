@@ -1,8 +1,10 @@
 Package: sptorch
-Title: Spatial neural network methods based on torch for R
+Title: Spatial Analysis Empowered by Neural Networks
 Version: 0.0.0.9000
 Authors@R: 
-    person("Wenbo", "Lv", , "lyu.geosocial@gmail.com", role = c("aut", "cre"),
+    person(given = "Wenbo", family = "Lv",
+           email = "lyu.geosocial@gmail.com", 
+           role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0009-0002-6003-3800"))
 Description: What the package does (one paragraph).
 License: GPL-3
