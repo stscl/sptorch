@@ -6,7 +6,12 @@ Authors@R:
            email = "lyu.geosocial@gmail.com", 
            role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0009-0002-6003-3800"))
-Description: What the package does (one paragraph).
+Description: The implementation of various neural network-based geospatial analysis 
+             methods is supported based on the torch framework, including but not 
+             limited to geographical neural network weighted regression, spatiotemporal 
+             geographical neural network weighted regression, geographical neural network 
+             weighted logistic regression, and spatial interpolation of neural network 
+             ensembles.
 License: GPL-3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
