@@ -22,3 +22,4 @@ Imports:
 Suggests: 
     geocn,
     tidyverse
+URL: https://ai4city-hkust.github.io/sptorch/

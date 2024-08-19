@@ -1,4 +1,13 @@
-url: ~
+url: https://ai4city-hkust.github.io/sptorch/
 template:
   bootstrap: 5
+  bootswatch: spacelab
+  math-rendering: mathjax
+  light-switch: true
 
+home:
+  title: |
+    sptorch | Spatial Analysis Empowered by Neural Networks
+authors:
+  Wenbo Lv:
+    href: https://spatlyu.github.io/
