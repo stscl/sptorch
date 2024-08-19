@@ -4,6 +4,11 @@ template:
   bootswatch: spacelab
   math-rendering: mathjax
   light-switch: true
+  bslib:
+    pkgdown-navbar-bg: "#fef1ee"
+
+navbar:
+  bg: custom
 
 home:
   title: |
