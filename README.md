@@ -10,8 +10,7 @@
 
 <!-- badges: end -->
 
-The goal of **sptorch** is to support *spatial analysis empowered by
-neural networks*.
+**Spatial Analysis Empowered by Neural Networks**
 
 ## Installation
 
