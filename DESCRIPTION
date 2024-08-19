@@ -20,4 +20,5 @@ Imports:
     magrittr,
     torch
 Suggests: 
+    geocn,
     tidyverse
