@@ -10,7 +10,8 @@
 
 <!-- badges: end -->
 
-**Spatial Analysis Empowered by Neural Networks**
+<font style=background:#58006d color=#c58332>**Spatial Analysis
+Empowered by Neural Networks**</font>
 
 ## Installation
 
