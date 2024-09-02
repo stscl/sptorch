@@ -6,7 +6,7 @@
 <!-- badges: start -->
 
 [![CRAN](https://www.r-pkg.org/badges/version/sptorch)](https://CRAN.R-project.org/package=sptorch)
-[![r-universe](https://spatlyu.r-universe.dev/badges/sptorch)](https://spatlyu.r-universe.dev/sptorch)
+[![r-universe](https://stscl.r-universe.dev/badges/sptorch)](https://stscl.r-universe.dev/sptorch)
 
 <!-- badges: end -->
 
@@ -15,14 +15,12 @@ Neural Networks</span></font>
 
 ## Installation
 
-### Install from source
-
-You can install the development version of **sptorch** from
-[github](https://github.com/ai4city-hkust/sptorch) with:
+- Install development source version from
+  [GitHub](https://github.com/stscl/sptorch) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("ai4city-hkust/sptorch",
+devtools::install_github("stscl/sptorch",
                          build_vignettes = TRUE,
                          dep = TRUE)
 ```
