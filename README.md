@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# sptorch <img src="man/figures/logo.png" align="right" height="120"/>
+# sptorch <a href="https://stscl.github.io/sptorch/"><img src="man/figures/logo.png" align="right" height="139" alt="sptorch website" /></a>
 
 <!-- badges: start -->
 
